@@ -5,7 +5,7 @@ Infrastructure Solutions Architect
 ----------------------------------
 
 * 🌍  I'm based in Raleigh, NC
-* 🧠  I'm learning Next.Js, Tailwind
+* 🧠  I'm learning Terraform, Next.Js, Tailwind
 
 ### Skills
 
