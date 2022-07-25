@@ -1,12 +1,3 @@
-Hi 👋 My name is Anthony
-========================
-
-Infrastructure Solutions Architect
-----------------------------------
-
-* 🌍  I'm based in Raleigh, NC
-* 🧠  I'm learning Terraform, Next.Js, Tailwind
-
 ### Skills
 
 <p align="left">
